@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Hopefully this next.js app deploys with git integrations.
+          Deployed with Git Integration? I hope so!
         </h1>
 
         <p className={styles.description}>
