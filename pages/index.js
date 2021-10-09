@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to an attempt to setup an automated vercel deployment of <a href="https://nextjs.org">Next.js! utilizing github</a>
         </h1>
 
         <p className={styles.description}>
